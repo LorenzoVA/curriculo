@@ -8,13 +8,13 @@ body {
   background-color: #000;
   color: #ffffff;
   font-family: Arial, sans-serif;
-  background-repeat: no-repeat;
 }
 
 main {
   text-align: left;
   margin-right: 30%;
   margin-left: 30%;
+  margin-top: 2%;
 }
 
 h1 {
@@ -31,4 +31,8 @@ hr {
   border-color: #ffffff;
   border: 2px;
   border-style: solid;
+}
+
+.c1 {
+  margin-top: 3%;
 }
