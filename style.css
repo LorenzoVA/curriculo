@@ -5,8 +5,9 @@
 }
 
 body {
-  background-color: #000;
-  color: #ffffff;
+  background-image: linear-gradient(to bottom, #a7dff8, #c5e5fe, #dfecff, #f2f5ff, #ffffff);
+  background-repeat: no-repeat;
+  color: rgb(50, 50, 112);
   font-family: Arial, sans-serif;
 }
 
@@ -20,17 +21,21 @@ main {
 h1 {
   text-align: center;
   border-bottom: 2px solid;
-  padding: 20px; 
+  padding: 20px;
+  text-shadow: 1px 1px 2px rgb(0, 0, 0);
+  box-shadow: 1px 1px 2px rgb(0, 0, 0);
 }
 
 h2 {
   text-decoration: underline;
+  text-shadow: 1px 1px 2px rgb(0, 0, 0);
 }
 
 hr {
-  border-color: #ffffff;
+  border-color: rgb(50, 50, 112);
   border: 2px;
   border-style: solid;
+  box-shadow: 1px 1px 2px rgb(0, 0, 0);
 }
 
 .c1 {
