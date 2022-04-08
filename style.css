@@ -8,7 +8,8 @@ body {
   background-image: linear-gradient(to bottom, #a7dff8, #c5e5fe, #dfecff, #f2f5ff, #ffffff);
   background-repeat: no-repeat;
   color: rgb(50, 50, 112);
-  font-family: Arial, sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
 }
 
 main {
